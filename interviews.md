@@ -22,11 +22,14 @@
 * [Binary Search – CS50. Harvard](https://www.youtube.com/watch?v=T98PIp4omUA)
 
 ## Data Structures (JavaScript)
+* [Arrays vs. Linked Lists](https://www.youtube.com/watch?v=DyG9S9nAlUM)
+* [Associative Arrays (Hash Tables)](https://www.youtube.com/watch?v=qTZJLJ3Gm6Q)
 * [Binary Search Trees](https://hackernoon.com/data-structures-in-javascript-pt-1-binary-search-trees-2c231cf2c8e1)
-* [Hash Tables](https://hackernoon.com/data-structures-in-javascript-pt-2-hash-tables-8a6cc8ae3bd3)
-* [Tries: 'Trying to understand Tries'](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
-* [Trees: 'How to not be stumped by Trees'](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+* [Hash Tables with JavaScript](https://hackernoon.com/data-structures-in-javascript-pt-2-hash-tables-8a6cc8ae3bd3)
+* [Linked Lists](https://www.youtube.com/watch?v=_jQhALI4ujg)
 * [Singly & Doubly Linked Lists with JavaScript](https://code.tutsplus.com/articles/data-structures-with-javascript-singly-linked-list-and-doubly-linked-list--cms-23392)
+* [Trees: 'How to not be stumped by Trees'](https://medium.com/basecs/how-to-not-be-stumped-by-trees-5f36208f68a7)
+* [Tries: 'Trying to understand Tries'](https://medium.com/basecs/trying-to-understand-tries-3ec6bede0014)
 
 ## Recursion
 * [What on earth is Recursion – Computerphile](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
@@ -38,6 +41,7 @@
 * [Even Occurrence in JavaScript](https://initjs.org/even-occurrence-in-javascript-17b7fb2db08a)
 * [Factorials in JavaScript](https://www.natashatherobot.com/factorials-javascript-recursion/)
 * [Fibonacci sequence algorithm in Javascript](https://medium.com/developers-writing/fibonacci-sequence-algorithm-in-javascript-b253dc7e320e)
+* [Loops vs. Recursion](https://www.youtube.com/watch?v=HXNhEYqFo0o)
 * [N-Queens problem](https://www.youtube.com/watch?v=jJPtLzq1E-Y)
 
 ## JavaScript
