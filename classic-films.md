@@ -42,12 +42,12 @@ https://www.youtube.com/watch?v=l9Luktdq9pc)
 * [IBM System/370 Mainframe Computer History Archives Project 1970](https://www.youtube.com/watch?v=Tb0cRL2mnbA)
 ### Bell Labs
 * [BLIT: an early Windowed Graphic Interface from Bell Labs](https://www.youtube.com/watch?v=Pr1XXvSaVUQ)
-## Xerox
-### ALTO
+### Xerox
+#### ALTO
 * [ALTO Probe (VPRI 0216) 1978](https://www.youtube.com/watch?v=w2vbaT3AKCE)
-### Dorado
+#### Dorado
 * [Xerox Mockingbird (1980)](https://www.youtube.com/watch?v=p45NXD_iPPI)
-### Star
+#### Star
 * [Xerox Star CHI85](https://www.youtube.com/watch?v=syfZoMq_ZfM)
 * [Xerox Star 8010 GUI](https://www.youtube.com/watch?v=0_bgAryP380)
 * [Xerox Star Professional Workstation (1981)](https://www.youtube.com/watch?v=zVw86emu-K0)
