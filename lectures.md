@@ -16,7 +16,7 @@
 * [Seymour Papert & Alan Kay: Kids & Computers](https://www.youtube.com/watch?v=DQF_0IS4ZVY&index=55&list=PLCj3N-aTViNSg2VmXaHUQX76YjBRJM7Cg)
 * [Seymour Papert & Robin Jettinghoff](https://www.youtube.com/watch?v=4iIqLc0sjjs)
 
-# Modern
+## Modern
 * [Bret Victor - The Future of Programming](https://www.youtube.com/watch?v=IGMiCo2Ntsc)
 * [Donald Knuth - "Bayesian trees and BDDs"](https://www.youtube.com/watch?v=axUgEAgrSB8&index=51)
 * [Gerald Jay Sussman on Flexible Systems, The Power of Generic Operations](https://www.youtube.com/watch?v=cblhgNUoX9M)
