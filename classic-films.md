@@ -1,16 +1,20 @@
 ## Classic Films 🎥
+
 ### Internet
 * [Computer Networks – Arpanet, 1972 (Part 1)](https://www.youtube.com/watch?v=fVhwOaCwkb0&t=0s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=3)
 * [Computer Networks – Arpanet, 1972 (Part 2)](https://www.youtube.com/watch?v=RmO4TxDCMjI&t=0s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=4)
+
 ### General
 * [Seeing the Digital Future (1961)](https://www.youtube.com/watch?v=avHo0-qU8xo)
 * [How a Computer Works (1962)](https://www.youtube.com/watch?v=jDQROzrFD1o)
+
 ### Systems
 * ['System Technology' – System Development Corporation (1960)](https://www.youtube.com/watch?v=Yqu3YX2cLA8)
 * [Timesharing: A Solution to Computer Bottlenecks (1963)](https://www.youtube.com/watch?v=Q07PhW5sCEk)
 * [Ellis D. Kropotechev and Zeus, This marvelous time-sharing system. 1967 (VPRI 215)](https://www.youtube.com/watch?v=Dv5shcFi-og)
 * [UNIX: Making Computers Easier To Use, AT&T Bell Laboratories – 1982](https://www.youtube.com/watch?v=XvDZLjaCJuw&t=0s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=2)
 * [The UNIX Operating System, AT&T archives](https://www.youtube.com/watch?v=tc4ROCJYbm0&t=55s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=6)
+
 ### Demos
 * [The Mother of All Demos, presented by Douglas Engelbart (1968)](https://www.youtube.com/watch?v=yJDv-zdhzMY)
 * [1969 Engelbart Demo - ASIS Conference (1/3)](https://www.youtube.com/watch?v=Odv_vNFGOX4)
@@ -18,35 +22,46 @@
 * [1969 Engelbart Demo - ASIS Conference (3/3)](https://www.youtube.com/watch?v=qX5i08ngM7M)
 
 ## Classic Computing 💾
+
 ### Whirlwind Project
 * [Jay Forrester on the Whirlwind Computer](https://www.youtube.com/watch?v=JZLpbhsE72I)
+
 ### Illiac
 * [The Illiac-IV Lecture - Bay Area Computer, History Perspectives Series](https://www.youtube.com/watch?v=3OmH0nHifgE)
+
 ### SAGE System
 * [SAGE Computer Based Air Defense](https://www.youtube.com/watch?v=tRBXjLRC2kw)
 * [Vigilance and Vacuum Tubes: The Sage System, 1956-1963](https://www.youtube.com/watch?v=Skm27eRFzIc)
 * [Cold War Computing: The SAGE System](https://www.youtube.com/watch?v=06drBN8nlWg)
 * [Largest Computer Ever Built: "On Guard: The Story of SAGE" 1956 IBM; Sound Fixed Version](https://www.youtube.com/watch?v=_qq-SX9KEkw)
+
 ### TX Series & LINC
 * [TX-0, TX-2 and LINC- Early MIT Computers](https://www.youtube.com/watch?v=ZgPfLWt5FWE)
 * [Development of the TX-0 at MIT](https://www.youtube.com/watch?v=VFl_zNBK6es)
 * [TX-0 Computer, MIT, 1956 - 1960](https://www.youtube.com/watch?v=ieuV0A01--c)
+
 ### Aerospace Systems
 * [USAF Air Defense Command System Training Program (STP) 1956 RAND Corp](https://www.youtube.com/watch?v=iHg1giTvo1U)
 * [Computer for Apollo (Apollo Guidance Computer)](https://www.youtube.com/watch?v=YIBhPsyYCiM)
+
 ### IBM
 * [1957 Automatic Data Processing - IBM 705 Mainframe Data Center EDPM ARMY Computer](https://www.youtube.com/watch?v=32iPITuZraU)
 * [IBM 705 Mainframe Computer - 1957 - 1960's era Data Processing machines - USAF Military Punch Card](https://www.youtube.com/watch?v=l9Luktdq9pc)
 * [IBM System 360 Mainframe Computer History Archives 1964 SLT](https://www.youtube.com/watch?v=V4kyTg9Cw8g)
 * [IBM CONTROL PROGRAM OF OPERATING SYSTEM/360](https://www.youtube.com/watch?v=378S5Owi-BI)
 * [IBM System/370 Mainframe Computer History Archives Project 1970](https://www.youtube.com/watch?v=Tb0cRL2mnbA)
+
 ### Bell Labs
 * [BLIT: an early Windowed Graphic Interface from Bell Labs](https://www.youtube.com/watch?v=Pr1XXvSaVUQ)
+
 ### Xerox
+
 #### ALTO
 * [ALTO Probe (VPRI 0216) 1978](https://www.youtube.com/watch?v=w2vbaT3AKCE)
+
 #### Dorado
 * [Xerox Mockingbird (1980)](https://www.youtube.com/watch?v=p45NXD_iPPI)
+
 #### Star
 * [Xerox Star CHI85](https://www.youtube.com/watch?v=syfZoMq_ZfM)
 * [Xerox Star 8010 GUI](https://www.youtube.com/watch?v=0_bgAryP380)
@@ -70,9 +85,11 @@
 * [X Windows System Design Principles, a lecture by James Gettys](https://www.youtube.com/watch?v=KdmNHM9BKY0)
 
 ## Animation ✋
+
 ### Documentaries
 * [History of Computer Graphics (1972)](https://www.youtube.com/watch?v=NXkkr0REEPI)
 * [Unbelievable early days computer animation circa 1980's](https://www.youtube.com/watch?v=0pSJgsojhbs)
+
 ### Demo Reels
 * [John Whitney "Catalog" 1961](https://www.youtube.com/watch?v=TbV7loKp69s)
 * [John Whitney-Matrix III (1972)](https://www.youtube.com/watch?v=ZrKgyY5aDvA)
@@ -80,6 +97,7 @@
 * [Marks & Marks Demo Reel (1981)](https://www.youtube.com/watch?v=6c3nWhR41D0)
 * [Shirogumi Sample Reel (1983)](https://www.youtube.com/watch?v=oiJxNm8G80o)
 * [Japan Computer Graphics Lab (1984)](https://www.youtube.com/watch?v=5RaDIBXkU3U)
+
 ### Collections
 * [Computer Animation Magic 1986 VHS RIP XViD CG](https://www.youtube.com/watch?v=TbiBVypH31w)
 * [Computer Dreams (1988)](https://www.youtube.com/watch?v=HL0RH3x7Zzo)
@@ -96,6 +114,7 @@
 * [Constructionism in 21st Century Classrooms](https://www.youtube.com/watch?v=eEHZFd-QWQI)
 
 ## People & Research
+
 ### Alan Kay
 * [Alan Kay – Computer Applications: A Dynamic Medium for Creative Thought 1972 (VPRI 893)](https://www.youtube.com/watch?v=WJzi9R_55Iw&index=1)
 * [Alan Kay – User Group University talk 1987 (VPRI 0102)](https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=4517s)
