@@ -75,6 +75,30 @@
 * [Final Demo of the Xerox Star Computer (Part 2 of 2)](https://www.youtube.com/watch?v=mKZKaiyQsG4)
 * [The Final Demonstration of the Xerox 'Star' computer (CHM)](https://www.youtube.com/watch?v=_OwG_rQ_Hqw)
 
+### Apple
+
+#### Macintosh
+* [Steve Jobs presentation about Apple (Insanely Great), 1980](https://www.youtube.com/watch?v=0lvMgMrNDlg)
+* [First Public Demonstration of the Macintosh, 1984](https://www.youtube.com/watch?v=S7AL7tkQ7d0)
+
+#### iMac
+* [Introduction of the iMac - Apple Special Event, 1998](https://www.youtube.com/watch?v=oxwmF0OJ0vg)
+
+#### iPod
+* [Introduction of the iPod - Apple Special Event, 2001](https://www.youtube.com/watch?v=SYMTy6fchiQ)
+
+#### iPhone
+* [Introduction of the iPhone – Macworld, 2007](https://www.youtube.com/watch?v=vN4U5FqrOdQ)
+
+#### iPad
+* [Introduction of the iPad - Apple Special Event, 2010](https://www.youtube.com/watch?v=_KN-5zmvjAo)
+
+### NeXT
+* [NeXT team brainstorming session, 1985](https://www.youtube.com/watch?v=BNeXlJW70KQ)
+* [NeXT presentation in San Francisco, 1990](https://www.youtube.com/watch?v=sdPb8eh_m7Q)
+* [NeXT vs Sun Competition, 1991](https://www.youtube.com/watch?v=UGhfB-NICzg)
+* [NeXT internal marketing strategy video, 1991](https://www.youtube.com/watch?v=HNfRgSlhIW0)
+
 ## Interaction systems 🖲
 * [Ivan Sutherland : Sketchpad Demo (1/2)](https://www.youtube.com/watch?v=USyoT_Ha_bA)
 * [Ivan Sutherland : Sketchpad Demo (2/2)](https://www.youtube.com/watch?v=BKM3CmRqK2o)
@@ -126,11 +150,11 @@
 
 ### Seymour Papert
 * [Seymour Papert (1972)](https://www.youtube.com/watch?v=xMzojQFyMo0)
-* [Seymour Papert 1983 (Talking Turtle 1)](https://www.youtube.com/watch?v=bOf4EMN6-XA)
-* [Talking Turtle 2](https://www.youtube.com/watch?v=BTd3N5Oj2jk)
-* [Talking Turtle 3](https://www.youtube.com/watch?v=LGgyl8XQ7zQ)
-* [Talking Turtle 4](https://www.youtube.com/watch?v=IkhE-371XdE)
-* [Talking Turtle 5](https://www.youtube.com/watch?v=TxCpgi2R0w8)
+* [Talking Turtle 1, 1983](https://www.youtube.com/watch?v=bOf4EMN6-XA)
+* [Talking Turtle 2, 1983](https://www.youtube.com/watch?v=BTd3N5Oj2jk)
+* [Talking Turtle 3, 1983](https://www.youtube.com/watch?v=LGgyl8XQ7zQ)
+* [Talking Turtle 4, 1983](https://www.youtube.com/watch?v=IkhE-371XdE)
+* [Talking Turtle 5, 1983](https://www.youtube.com/watch?v=TxCpgi2R0w8)
 * [Seymour Papert: Children Mathematics and Computers 1983 (VPRI 0163)](https://www.youtube.com/watch?v=FksX4H664cw)
 * [Mathland - Seymour Papert](https://www.youtube.com/watch?v=UgE05-3SToc)
 * [Seymour Papert on Idea Aversion](https://www.youtube.com/watch?v=8fNNWdrg1d4)
@@ -139,6 +163,15 @@
 * [Seymour Papert – MIT Medial Lab Interactive Disc Excerpt (1986)](https://www.youtube.com/watch?v=IhEovwWiniY)
 * [Seymour Papert Interview](https://www.youtube.com/watch?v=qnP2ZcSRhzM)
 * [Learning from Seymour Papert](https://www.youtube.com/watch?v=Pvgef9ABDUc&t=52s)
+
+### Steve Jobs
+* [Nightline interview with Steve Jobs, 1981](https://www.youtube.com/watch?v=3H-Y-D3-j-M)
+* [Steve Jobs MIT lecture 1: Manufacturing vs. Consulting](https://www.youtube.com/watch?v=QD8N8N7wzmM)
+* [Steve Jobs MIT lecture 2: What he learned from being fired by Apple](https://www.youtube.com/watch?v=VAg7jq3l26g)
+* [Steve Jobs MIT lecture 3: Getting Fired: "I think everybody lost"](https://www.youtube.com/watch?v=D4giQudg9R8)
+* [Steve Jobs MIT lecture 4: Management Style](https://www.youtube.com/watch?v=k8u6UTvRang)
+* [Steve Jobs MIT lecture 5: 'Deep Questions'](https://www.youtube.com/watch?v=OrlVh_ULnig)
+* [Steve Jobs unabridged interview, 1995](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
 
 ## Internet & WWW 🔗
 * [Multimedia on Ethernet, lecture by Paul Sherer](https://www.youtube.com/watch?v=KJthQPfJyxo&index=42)
