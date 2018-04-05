@@ -75,6 +75,24 @@
 * [Final Demo of the Xerox Star Computer (Part 2 of 2)](https://www.youtube.com/watch?v=mKZKaiyQsG4)
 * [The Final Demonstration of the Xerox 'Star' computer (CHM)](https://www.youtube.com/watch?v=_OwG_rQ_Hqw)
 
+### Commodore
+
+#### PET
+* [Pebble Mill: Tandy & Commodore PET, 1977](https://www.youtube.com/watch?v=8U_hHSiwl-k)
+* [Bits and Bytes: Commodore PET, 1977](https://www.youtube.com/watch?v=nZgCHNgh3II)
+
+#### VIC-20
+* [Commodore VIC-20 ad with William Shatner](https://www.youtube.com/watch?v=UK9VU1aJvTI)
+
+#### Commodore 64
+* [Introducing the Commodore 64, 1982](https://www.youtube.com/watch?v=xmnlkLc1Foc)
+* [Introduction to programming the Commodore 64, 1984](https://www.youtube.com/watch?v=h3bDa5z_B1M)
+
+#### Amiga
+* [Commodore Amiga 500 Promotional Video](https://www.youtube.com/watch?v=lNVslAjvjMw)
+* [Tour of Commodore Canada HQ, 1991](https://www.youtube.com/watch?v=X9a4ETk1OB0)
+
+
 ### Apple
 
 #### Macintosh
