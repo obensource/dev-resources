@@ -3,7 +3,7 @@
 
 Handy resources for computer people, divided by category. 
 
-### ⚡️ 📚 📽 🔈 ⚡️
+### 🔗 📚 📽 🔈 🔗
 
 ## [Classic Films](./classic-films.md)<br/>[Interview Resources](./interviews.md)<br/>[Lecture Videos](lectures.md)
 
