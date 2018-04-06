@@ -1,7 +1,9 @@
 # Dev Resources ⚡️💻⚡️
 <img src="https://i.imgur.com/rEB0YIz.gif" title="WHAT DID I JUST C?" height="250px" />
 
-Handy resources for computer people, divided by category. 📚📽🔈
+Handy resources for computer people, divided by category. 
+
+### ⚡️ 📚 📽 🔈 ⚡️
 
 ## [Classic Films](./classic-films.md)<br/>[Interview Resources](./interviews.md)<br/>[Lecture Videos](lectures.md)
 
