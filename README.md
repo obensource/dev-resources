@@ -5,7 +5,9 @@ Handy resources for computer people, divided by category.
 
 ### 🔗 📚 📽 🔈 🔗
 
-## [Classic Films](./classic-films.md)<br/>[Interview Resources](./interviews.md)<br/>[Lecture Videos](lectures.md)
+* ### [Classic Films](./classic-films.md)
+* ### [Interview Resources](./interviews.md)
+* ### [Lecture Videos](lectures.md)
 
 #### What is this?
 This is a place to categorize, bookmark, and share the reference material that I've found helpful for growing my understanding, process, and effectivity as a software engineer over the years. 
