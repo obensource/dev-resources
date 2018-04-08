@@ -170,6 +170,7 @@
 * [Introduction to programming the Commodore 64, 1984](https://www.youtube.com/watch?v=h3bDa5z_B1M)
 
 #### Amiga
+* [The History Of The Commodore Amiga (1992)](https://www.youtube.com/watch?v=fg8uKYLa1Aw)
 * [Commodore Amiga 500 Promotional Video](https://www.youtube.com/watch?v=lNVslAjvjMw)
 * [Tour of Commodore Canada HQ, 1991](https://www.youtube.com/watch?v=X9a4ETk1OB0)
 
