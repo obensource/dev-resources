@@ -4,9 +4,50 @@
 * [Computer Networks – Arpanet, 1972 (Part 1)](https://www.youtube.com/watch?v=fVhwOaCwkb0&t=0s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=3)
 * [Computer Networks – Arpanet, 1972 (Part 2)](https://www.youtube.com/watch?v=RmO4TxDCMjI&t=0s&list=PLCj3N-aTViNTOk43ncSTBjDjCJie2D5KZ&index=4)
 
-### General
+### General Computing
 * [Seeing the Digital Future (1961)](https://www.youtube.com/watch?v=avHo0-qU8xo)
 * [How a Computer Works (1962)](https://www.youtube.com/watch?v=jDQROzrFD1o)
+* [Computing and Computers - Mainframes and Micros Unite - BBC 2 - 1983](https://www.youtube.com/watch?v=GjcVyGADBPU)
+
+#### 'Managing the Micro' Series (incomplete), BBC 1981
+* [Managing The Micro - Part 2 - Getting In On The Act - 24th May 1981](https://www.youtube.com/watch?v=ANOGTPAHHlY)
+* [Managing The Micro - Part 3 - Towards The Last Frontier - 31st May 1981](https://www.youtube.com/watch?v=xz_a4Q0TF3o)
+* [Managing The Micro - Part 4 - On Line - 7th June 1981](https://www.youtube.com/watch?v=BwWkBaKO4jo)
+* [Managing The Micro - Part 5 - The Human Factor - 14th June 1981](https://www.youtube.com/watch?v=SE1Y25ZhxHE)
+
+#### 'The Computer Programme' Series, BBC 1982
+* [The Computer Programme (1): It's Happening Now (Introduction to Computing)](https://www.youtube.com/watch?v=jtMWEiCdsfc)
+* [The Computer Programme (2): Just One Thing After Another (Basic Processing Concepts)](https://www.youtube.com/watch?v=OFUHjDhTIJg)
+* [The Computer Programme (3): Talking To A Machine (Programming Languages)](https://www.youtube.com/watch?v=7Mr3Csyb0Qw)
+* [The Computer Programme (4): It's On The Computer (Data Storage & Retrieval)](https://www.youtube.com/watch?v=UkXqb1QT_tI)
+* [The Computer Programme (5): The New Media (Communications & Media)](https://www.youtube.com/watch?v=GETqUVMXX3I)
+* [The Computer Programme (6): Moving Pictures (Graphics & Animation)](https://www.youtube.com/watch?v=HG2CKrl9tvg)
+* [The Computer Programme (7): Let's Pretend (Computer Modelling & Simulations)](https://www.youtube.com/watch?v=wOFgIEAh32Y)
+* [The Computer Programme (8): The Thinking Machine (Artificial Intelligence)](https://www.youtube.com/watch?v=2EwAkssWcLU)
+* [The Computer Programme (9): In Control (Computers Controlling Other Equipment)](https://www.youtube.com/watch?v=X0jzqYPYGF0)
+* [The Computer Programme (10): Things To Come (The Future Of Computing)](https://www.youtube.com/watch?v=rLL7HmbcrvQ)
+
+#### 'Making the Most of the Micro' Series, BBC 1983
+* [Making the Most of the Micro (1): The Versatile Machine](https://www.youtube.com/watch?v=I4q0u6LoHyA)
+* [Making the Most of the Micro (2): Getting Down to BASIC](https://www.youtube.com/watch?v=S1v_Ill00is)
+* [Making the Most of the Micro (3): Strings and Things](https://www.youtube.com/watch?v=-r9u0H2kjwE)
+* [Making the Most of the Micro (4): Introducing Graphics](Making the Most of the Micro (Part 4) - Introducing Graphics - BBC 1983)
+* [Making the Most of the Micro (5): Keeping a Record](https://www.youtube.com/watch?v=H_n5RGl9x94)
+* [Making the Most of the Micro (6), BBC 1983: Getting Down to Business](https://www.youtube.com/watch?v=wXSF59cgPXE)
+* [Making the Most of the Micro (7): Sounds Interesting](https://www.youtube.com/watch?v=0gzAWtnJGIc)
+* [Making the Most of the Micro (8): Everything Under Control](https://www.youtube.com/watch?v=xEzOrL_vhbA)
+* [Making the Most of the Micro (9): Moving Pictures](https://www.youtube.com/watch?v=bcNH4wjRw-U)
+* [Making the Most of the Micro (10): At the End of the Line](https://www.youtube.com/watch?v=VRduwRryVHE)
+
+#### Misc
+* [Computer Trade Video - Episode 1 - 3rd June 1985 - CTV 1](https://www.youtube.com/watch?v=3R__fH6Tm1c)
+
+### Applied Computing
+* [Computing and Computers - Batch Processing (for Banks) - BBC2 - 1980](https://www.youtube.com/watch?v=fAselhq0Q8g)
+* [Computer Club: The Computer and the Map Maker - BBC2 - 1983](https://www.youtube.com/watch?v=n9z9eDMZqCk)
+* [Computer Club: The Computer and the TV Producer - BBC2 - 1983](https://www.youtube.com/watch?v=fXq-1vRsCWo)
+* [Computer Club: The Computer and the Transport Planner, 1984](https://www.youtube.com/watch?v=Fmw_SbpBr0U)
+* [Computer Club: The Computer and the Mariner - BBC2 - 1984](https://www.youtube.com/watch?v=lSBW5nifNQk)
 
 ### Systems
 * ['System Technology' – System Development Corporation (1960)](https://www.youtube.com/watch?v=Yqu3YX2cLA8)
@@ -20,6 +61,7 @@
 * [1969 Engelbart Demo - ASIS Conference (1/3)](https://www.youtube.com/watch?v=Odv_vNFGOX4)
 * [1969 Engelbart Demo - ASIS Conference (2/3)](https://www.youtube.com/watch?v=AzCoNB4JKRU)
 * [1969 Engelbart Demo - ASIS Conference (3/3)](https://www.youtube.com/watch?v=qX5i08ngM7M)
+* [Bill Gates demonstrates Visual Basic (1991)](https://www.youtube.com/watch?v=Fh_UDQnboRw)
 
 ## Classic Computing 💾
 
@@ -45,14 +87,46 @@
 * [Computer for Apollo (Apollo Guidance Computer)](https://www.youtube.com/watch?v=YIBhPsyYCiM)
 
 ### IBM
+
+#### IBM 705
 * [1957 Automatic Data Processing - IBM 705 Mainframe Data Center EDPM ARMY Computer](https://www.youtube.com/watch?v=32iPITuZraU)
 * [IBM 705 Mainframe Computer - 1957 - 1960's era Data Processing machines - USAF Military Punch Card](https://www.youtube.com/watch?v=l9Luktdq9pc)
+
+#### IBM 360
 * [IBM System 360 Mainframe Computer History Archives 1964 SLT](https://www.youtube.com/watch?v=V4kyTg9Cw8g)
 * [IBM CONTROL PROGRAM OF OPERATING SYSTEM/360](https://www.youtube.com/watch?v=378S5Owi-BI)
+
+#### IBM 370
 * [IBM System/370 Mainframe Computer History Archives Project 1970](https://www.youtube.com/watch?v=Tb0cRL2mnbA)
 
+#### IBM PC
+* [Introducing the IBM Personal Computer, 1983 Promotional Video](https://www.youtube.com/watch?v=qurQurIWJrA)
+
+#### Interactive Video Disc
+* [IBM - Interactive Videodisc Demonstration - Point of Sale Guide for Dealers](https://www.youtube.com/watch?v=3DtLRMtMKYI)
+
 ### Bell Labs
+
+#### BLIT
 * [BLIT: an early Windowed Graphic Interface from Bell Labs](https://www.youtube.com/watch?v=Pr1XXvSaVUQ)
+
+### DEC (Digital Equipment Corporation)
+
+#### Professional
+* [Personal Challenge, 25th Anniversary Video](https://www.youtube.com/watch?v=YKbnbvF_2Ew)
+
+#### Enfield
+* [The Enfield Story – DEC Enfield High Performance Work System](https://www.youtube.com/watch?v=Peq43nYNbjk)
+
+#### VAX
+* [New York VAX 8974 Cluster Install, 1987](https://www.youtube.com/watch?v=vA13LA-D5vI)
+
+#### DEC Advertising
+* [Digital Makes The Difference - Promo Video, 1984](https://www.youtube.com/watch?v=WUCDlesn-FY)
+* [Remote Systems and Network Management Group, ~1990](https://www.youtube.com/watch?v=eplTNQF9q-g)
+
+#### DEC History
+* [DEC and PCs: A perspective, 1997](https://www.youtube.com/watch?v=rgb4VXYRv8U)
 
 ### Xerox
 
@@ -75,6 +149,13 @@
 * [Final Demo of the Xerox Star Computer (Part 2 of 2)](https://www.youtube.com/watch?v=mKZKaiyQsG4)
 * [The Final Demonstration of the Xerox 'Star' computer (CHM)](https://www.youtube.com/watch?v=_OwG_rQ_Hqw)
 
+### MITS
+
+#### Altair 8800
+* [The Homebrew Club: Lee Felsenstein, Steve Wozniak, Harry Garland, Bob Marsh, Jef Raskin and Allen Baum](https://www.youtube.com/watch?v=NXTZ-JNBfeQ)
+* [MITS Altair 8800 Computer, December 1974](https://www.youtube.com/watch?v=i8znuGj_yUY)
+* [Bill Gates talks about Microsoft and the Altair 8800 (1994)](https://www.youtube.com/watch?v=pqAg0GJLPGk)
+
 ### Commodore
 
 #### PET
@@ -92,8 +173,37 @@
 * [Commodore Amiga 500 Promotional Video](https://www.youtube.com/watch?v=lNVslAjvjMw)
 * [Tour of Commodore Canada HQ, 1991](https://www.youtube.com/watch?v=X9a4ETk1OB0)
 
+### Sinclair
+
+#### ZX Spectrum
+* [Master Class: Sinclair ZX Spectrum - Introduction to Programming](https://www.youtube.com/watch?v=0Tt8TmVc2h8)
+
+### Acorn
+
+#### Electron
+* [Master Class: Graphics and Games for the Acorn Electron Computer](https://www.youtube.com/watch?v=DN_xEnVrucg)
+
+#### Archimedes
+* [Acorn Archimedes - A Technical Introduction - 1987 BBC VHS Video](https://www.youtube.com/watch?v=KKTa54UikgE)
+* [Welcome to the Learning Curve - Acorn BBC Archimedes Computer 1990](https://www.youtube.com/watch?v=VVnXFJODlOU)
+
+### BBC
+
+#### BBC Microcomputer
+* [Master Class: Starting BASIC with the BBC Microcomputer](https://www.youtube.com/watch?v=cumt3M62Vdk)
+
+### SGI (Silicon Graphics International)
+
+#### IRIS
+* [IRIS 2400 workstation (1985)](https://www.youtube.com/watch?v=9EEY87HAHzk)
+
+#### Indy
+* [Indy UNIX Workstation Review (1993)](https://www.youtube.com/watch?v=Qk_JjfeChQA)
 
 ### Apple
+
+#### Apple II
+* [Apple II Forever - Apple IIc Apple II-GS 1988](https://www.youtube.com/watch?v=KVzSGB4MVcg)
 
 #### Macintosh
 * [Steve Jobs presentation about Apple (Insanely Great), 1980](https://www.youtube.com/watch?v=0lvMgMrNDlg)
@@ -117,14 +227,31 @@
 * [NeXT vs Sun Competition, 1991](https://www.youtube.com/watch?v=UGhfB-NICzg)
 * [NeXT internal marketing strategy video, 1991](https://www.youtube.com/watch?v=HNfRgSlhIW0)
 
+### Raspberry Pi
+* [Eben Upton - The Story of Raspberry Pi](https://www.youtube.com/watch?v=UCt6d0SCxO4)
+* [Eben Upton - Life Before Raspberry Pi](https://www.youtube.com/watch?v=RSnaxD2HSdc)
+
+## Languages
+
+### BASIC
+* [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw)
+
 ## Interaction systems 🖲
 * [Ivan Sutherland : Sketchpad Demo (1/2)](https://www.youtube.com/watch?v=USyoT_Ha_bA)
 * [Ivan Sutherland : Sketchpad Demo (2/2)](https://www.youtube.com/watch?v=BKM3CmRqK2o)
 * [GENESYS: An Interactive Computer-Mediated Animation System](https://www.youtube.com/watch?v=GYIPKLxoTcQ)
 * [Key Frame Animation](https://www.youtube.com/watch?v=EPIE_h8jf6E)
 
+## Open Source
+* [Revolution OS (The Movie)](https://www.youtube.com/watch?v=4vW62KqKJ5A)
+
 ## GUIs & Windowing 🖱
 * [X Windows System Design Principles, a lecture by James Gettys](https://www.youtube.com/watch?v=KdmNHM9BKY0)
+
+## Information Technology
+* [Information Technology Awareness Programme, 1982: IT in the Home](https://www.youtube.com/watch?v=cR6PjOwyxz0)
+* [Information Technology Awareness Programme, 1982: IT in Shops and Banks](https://www.youtube.com/watch?v=effgAG-UIjY)
+* [Information Technology Awareness Programme, 1982: IT in Health](https://www.youtube.com/watch?v=vZygBFkX14A)
 
 ## Animation ✋
 
@@ -154,6 +281,10 @@
 * [Technology in Education House Committee 10/12/95 (3 of 3) (VPRI 614 3)](https://www.youtube.com/watch?v=xjeIFyjh4b0)
 * [Seymour Papert and Paulo Freire Debate Technology and the Future of Schools](https://www.youtube.com/watch?v=4V-0KfBdWao)
 * [Constructionism in 21st Century Classrooms](https://www.youtube.com/watch?v=eEHZFd-QWQI)
+* [Computers in Education - A Guide for Parents - 1993 - Acorn Computers](https://www.youtube.com/watch?v=8oqe__WRWRU)
+
+## Accessibility
+* [The Mountbatten Brailler - RNC Enterprises](https://www.youtube.com/watch?v=SSIkF5u-05k)
 
 ## People & Research
 
@@ -165,6 +296,9 @@
 * [Alan Kay – Logo and Smalltalk (VPRI 0575)](https://www.youtube.com/watch?v=aq1tENXNf0o)
 * [Alan Kay - Remembering Seymour Papert](https://www.youtube.com/watch?v=XTbAdTRFp1k)
 * [Alan Kay – 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
+
+### Brian Kernighan
+* [C Programming Language: Brian Kernighan, 2015](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 
 ### Seymour Papert
 * [Seymour Papert (1972)](https://www.youtube.com/watch?v=xMzojQFyMo0)
@@ -191,10 +325,14 @@
 * [Steve Jobs MIT lecture 5: 'Deep Questions'](https://www.youtube.com/watch?v=OrlVh_ULnig)
 * [Steve Jobs unabridged interview, 1995](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
 
+### Steve Wozniak
+* ['Computing, joining Apple, and the Mac' – Cleveland Apple Club, 1984](https://www.youtube.com/watch?v=a5F5BwF1q4w)
+
 ## Internet & WWW 🔗
 * [Multimedia on Ethernet, lecture by Paul Sherer](https://www.youtube.com/watch?v=KJthQPfJyxo&index=42)
 * [The 100Mbps Ethernet Standard, Paul Sherer](https://www.youtube.com/watch?v=O1d5CGXbLQg&index=43)
 * [Roadkill on the Information Highway, lecture by Nathan Myhrvold](https://www.youtube.com/watch?v=x8fOqJ2N0Kk)
+* [BBC TV - Interactive Opportunities (Early Multimedia) - Michaela Strachan](https://www.youtube.com/watch?v=Qg7pqHo-HGQ)
 
 ## Classic Lectures 🗣
 * [Feynman: Knowing versus Understanding](https://www.youtube.com/watch?v=NM-zWTU7X-k&index=12)
@@ -221,3 +359,4 @@
 * [Computer History Archives Project](https://www.youtube.com/channel/UCOyJD0RHtF_77_oAf5tT1nQ/videos)
 * [Computer History Museum](https://www.youtube.com/channel/UCHDr4RtxwA1KqKGwxgdK4Vg)
 * [The Computer Chronicles](https://www.youtube.com/user/ComputerChroniclesYT/videos)
+* [The Centre for Computing History](https://www.youtube.com/channel/UCnw4p95EOWghQNP4vOv8VHw/videos)
