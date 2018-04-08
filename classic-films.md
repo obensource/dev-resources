@@ -31,7 +31,7 @@
 * [Making the Most of the Micro (1): The Versatile Machine](https://www.youtube.com/watch?v=I4q0u6LoHyA)
 * [Making the Most of the Micro (2): Getting Down to BASIC](https://www.youtube.com/watch?v=S1v_Ill00is)
 * [Making the Most of the Micro (3): Strings and Things](https://www.youtube.com/watch?v=-r9u0H2kjwE)
-* [Making the Most of the Micro (4): Introducing Graphics](Making the Most of the Micro (Part 4) - Introducing Graphics - BBC 1983)
+* [Making the Most of the Micro (4): Introducing Graphics](https://www.youtube.com/watch?v=mby34NLjTc0)
 * [Making the Most of the Micro (5): Keeping a Record](https://www.youtube.com/watch?v=H_n5RGl9x94)
 * [Making the Most of the Micro (6), BBC 1983: Getting Down to Business](https://www.youtube.com/watch?v=wXSF59cgPXE)
 * [Making the Most of the Micro (7): Sounds Interesting](https://www.youtube.com/watch?v=0gzAWtnJGIc)
