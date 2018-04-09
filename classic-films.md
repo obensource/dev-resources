@@ -237,6 +237,9 @@
 ### BASIC
 * [Birth of BASIC](https://www.youtube.com/watch?v=WYPNjSoDrqw)
 
+### C
+* [C Programming Language: Brian Kernighan, 2015](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+
 ## Interaction systems 🖲
 * [Ivan Sutherland : Sketchpad Demo (1/2)](https://www.youtube.com/watch?v=USyoT_Ha_bA)
 * [Ivan Sutherland : Sketchpad Demo (2/2)](https://www.youtube.com/watch?v=BKM3CmRqK2o)
@@ -291,15 +294,9 @@
 
 ### Alan Kay
 * [Alan Kay – Computer Applications: A Dynamic Medium for Creative Thought 1972 (VPRI 893)](https://www.youtube.com/watch?v=WJzi9R_55Iw&index=1)
-* [Alan Kay – User Group University talk 1987 (VPRI 0102)](https://www.youtube.com/watch?v=LwCOJ4VlkAI&t=4517s)
-* [Alan Kay, "The Dynabook—Past Present and Future"](https://www.youtube.com/watch?v=GMDphyKrAE8&index=18)
 * [Alan Kay – Education in the Digital Age (VPRI 0673)](https://www.youtube.com/watch?v=dspxVkO-BYQ)
 * [Alan Kay – Logo and Smalltalk (VPRI 0575)](https://www.youtube.com/watch?v=aq1tENXNf0o)
 * [Alan Kay - Remembering Seymour Papert](https://www.youtube.com/watch?v=XTbAdTRFp1k)
-* [Alan Kay – 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs)
-
-### Brian Kernighan
-* [C Programming Language: Brian Kernighan, 2015](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 
 ### Seymour Papert
 * [Seymour Papert (1972)](https://www.youtube.com/watch?v=xMzojQFyMo0)
@@ -319,11 +316,6 @@
 
 ### Steve Jobs
 * [Nightline interview with Steve Jobs, 1981](https://www.youtube.com/watch?v=3H-Y-D3-j-M)
-* [Steve Jobs MIT lecture 1: Manufacturing vs. Consulting](https://www.youtube.com/watch?v=QD8N8N7wzmM)
-* [Steve Jobs MIT lecture 2: What he learned from being fired by Apple](https://www.youtube.com/watch?v=VAg7jq3l26g)
-* [Steve Jobs MIT lecture 3: Getting Fired: "I think everybody lost"](https://www.youtube.com/watch?v=D4giQudg9R8)
-* [Steve Jobs MIT lecture 4: Management Style](https://www.youtube.com/watch?v=k8u6UTvRang)
-* [Steve Jobs MIT lecture 5: 'Deep Questions'](https://www.youtube.com/watch?v=OrlVh_ULnig)
 * [Steve Jobs unabridged interview, 1995](https://www.youtube.com/watch?v=M6Oxl5dAnR0)
 
 ### Steve Wozniak
@@ -334,21 +326,6 @@
 * [The 100Mbps Ethernet Standard, Paul Sherer](https://www.youtube.com/watch?v=O1d5CGXbLQg&index=43)
 * [Roadkill on the Information Highway, lecture by Nathan Myhrvold](https://www.youtube.com/watch?v=x8fOqJ2N0Kk)
 * [BBC TV - Interactive Opportunities (Early Multimedia) - Michaela Strachan](https://www.youtube.com/watch?v=Qg7pqHo-HGQ)
-
-## Classic Lectures 🗣
-* [Feynman: Knowing versus Understanding](https://www.youtube.com/watch?v=NM-zWTU7X-k&index=12)
-* [Wesley Clark, "The LINC Was Early and Small"](https://www.youtube.com/watch?v=l9YBZo30Ses&index=19)
-* [Doug Engelbart, “The Augmented Knowledge Workshop”](https://www.youtube.com/watch?v=sG3PWet8fDk)
-* [Larry Roberts, "The ARPANET and Computer Networks"](https://www.youtube.com/watch?v=qkD4HVRnGJE)
-* [Floating-Point -- Past Present and Future (Bay Area Computer History Perspectives)](https://www.youtube.com/watch?v=E3hO1i_E-6g)
-* [PA-RISC Design Issues, lecture by Michael Mahon](https://www.youtube.com/watch?v=C53tGHzp1PI&index=44)
-* [Computer Musings, lecture by Don Kruth](https://www.youtube.com/watch?v=Xp7bnx1wDz4&index=48)
-* [Donald Knuth - My advice to young people (93/97)](https://www.youtube.com/watch?v=75Ju0eM5T2c&index=49)
-* [Donald Knuth - All Questions Answered](https://www.youtube.com/watch?v=CDokMxVtB3k&index=50)
-* [Tech Talk: Linus Torvalds on git](https://www.youtube.com/watch?v=4XpnKHJAok8&index=53)
-* [The Unified Modeling Language, Part I, lecture by Grady Booch, Ivar Jacobson and James Rumbaugh](https://www.youtube.com/watch?v=F5UJkENKc50)
-* [The Unified Modeling Language, Part II, lecture by Grady Booch, Ivar Jacobson and James Rumbaugh](https://www.youtube.com/watch?v=pAQv9iwbhjw)
-* [Tony Hey – Toward the Third Age of Computing](https://www.youtube.com/watch?v=ZkTF0X3oB40&index=20)
 
 ## Computer Music 🎵
 * [High Tech Heroes #6: Julius O. Smith & David A. Jaffe](https://www.youtube.com/watch?v=15jG1zfx-IM&index=26)
